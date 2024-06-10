@@ -1,0 +1,1 @@
+{"token":"6f2c6d689f80a3faa67e7e90b39ccf83","items":[],"total_weight":0,"item_count":0,"total_discounts":0,"total_price":0,"total_line_items_price":0,"requires_shipping":false,"note":null,"attributes":[],"cart_level_discount_applications":[]}
